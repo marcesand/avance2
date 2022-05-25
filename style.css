@@ -1,0 +1,101 @@
+#titulo{
+    background-color: #f5f5f5; }
+    h1 {
+            font-family: 'Arial', sans-serif;
+            font-weight: 700;
+            font-size: 3.5rem;
+            line-height: 1.5;
+            color: #e8bac7 }
+    
+    .container-fluid{
+     padding: 3% 15%; }
+     body{
+        font-family: 'Arial', sans-serif;
+       }
+       .navbar-brand{
+        font-family: 'Arial', sans-serif;
+        font-size: 2.5rem;
+        font-weight: bold;
+       }
+       .navbar {
+        padding-bottom: 0 0 4.5rem;
+       }.nav-item {
+        padding: 0 18px;
+       }
+       .nav-link {
+        font-size: 1.2rem;
+        font-family: 'Arial', sans-serif;
+        font-weight: 100;
+       }
+       .buy-button {
+        margin: 5% 3% 5% 0;
+       } 
+       .title-image{
+        width: 150%;
+} 
+.body-image{
+        text-align : center;
+        width: 20%;
+       
+        
+} 
+.section-image{
+ width: 50%;
+ 
+       }
+       h3 {
+        font-family: 'Arial';
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #e8bac7
+
+}
+a{ color: #e8bac7;
+}
+
+      
+       p{
+        color: #e8bac7;
+       }
+       .i {
+        color: #e8bac7;
+        margin-bottom: 1rem;
+
+       }
+       h2{
+        font-family: 'Arial';
+        font-size: 3.0rem;
+        font-weight: 900;
+       }
+       .img-section{
+        width: 10%;
+        border-radius: 100%;
+        margin: 20px;
+       }
+
+    
+       .carousel-item{
+        padding: 7% 15%;
+        text-align: center;
+        background-color: #f5f5f5;
+        color: #e8bac7;
+}
+.img-novedades{
+        width: 35%;
+        
+        margin: 20px;
+
+       }
+       #cta{
+        background-color: #f5f5f5;
+        color: #e8bac7;
+        padding: 7% 15%;
+        text-align: center;
+       }
+       .encabezado-cta{
+        font-family: 'Arial';
+        font-weight: 900;
+        font-size: 3.5rem;
+        line-height: 1.5;
+       }
+       
